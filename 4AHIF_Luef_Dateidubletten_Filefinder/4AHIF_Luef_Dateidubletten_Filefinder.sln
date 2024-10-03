@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4AHIF_Luef_Dateidubletten_Filefinder", "4AHIF_Luef_Dateidubletten_Filefinder.csproj", "{CA213CAA-5AC8-495A-BB35-E2E3A8E817CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateFileTesting", "..\DuplicateFileTesting\DuplicateFileTesting.csproj", "{7D8712BB-F133-4D46-9511-63A03D2A569A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA213CAA-5AC8-495A-BB35-E2E3A8E817CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA213CAA-5AC8-495A-BB35-E2E3A8E817CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA213CAA-5AC8-495A-BB35-E2E3A8E817CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA213CAA-5AC8-495A-BB35-E2E3A8E817CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8712BB-F133-4D46-9511-63A03D2A569A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8712BB-F133-4D46-9511-63A03D2A569A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8712BB-F133-4D46-9511-63A03D2A569A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8712BB-F133-4D46-9511-63A03D2A569A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0788CAC3-19B4-4576-A6F5-C056E4808F62}
+	EndGlobalSection
+EndGlobal
