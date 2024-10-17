@@ -2,6 +2,6 @@
 {
     public interface IDuplicate
     {
-        IEnumerable<string> FilePath { get; }
+        IEnumerable<string> FilePaths { get; }
     }
 }

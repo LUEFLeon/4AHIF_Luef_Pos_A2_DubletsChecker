@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DuplicateFinderAppConsole/1.0.0": {
+        "dependencies": {
+          "4AHIF_Luef_Dateidubletten_Filefinder": "1.0.0"
+        },
+        "runtime": {
+          "DuplicateFinderAppConsole.dll": {}
+        }
+      },
+      "4AHIF_Luef_Dateidubletten_Filefinder/1.0.0": {
+        "runtime": {
+          "4AHIF_Luef_Dateidubletten_Filefinder.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DuplicateFinderAppConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "4AHIF_Luef_Dateidubletten_Filefinder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

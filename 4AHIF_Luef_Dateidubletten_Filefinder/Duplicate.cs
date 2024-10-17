@@ -8,10 +8,8 @@ namespace _4AHIF_Luef_Dateidubletten_Filefinder
 {
     public class Duplicate : IDuplicate
     {
-        public IEnumerable<string> FilePath { get; }
-        public Duplicate(IEnumerable<string> filePaths)
-        {
-            FilePath = filePaths;
-        }
+        public List<string> FilePaths { get; } = new List<string>();
+
+        IEnumerable<string> IDuplicate.FilePaths => new List<string>();
     }
 }
