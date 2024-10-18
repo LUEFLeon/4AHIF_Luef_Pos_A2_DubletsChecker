@@ -3,5 +3,7 @@
     public interface IDuplicate
     {
         IEnumerable<string> FilePaths { get; }
+
+
     }
 }
